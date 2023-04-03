@@ -14,6 +14,7 @@ ux 협업 연습을 위한 공간
 <br>
 
 [git 3단계 파일 상태] <br>
+
 작업 디렉토리 (working directory) <br>
 ↓ ★git add★ ↓ <br>
 스테이징 영역 (Staging Area)  <br>
