@@ -9,4 +9,12 @@ ux 협업 연습을 위한 공간
 - staged changes : 변경 된 값들을 파악하고 Staging Area로 추가하는 것 <br>
 
 [git 3단계 파일 상태] <br>
-작업 디렉토리 (working directory) → ★git add★ →  스테이징 영역 (Staging Area)  → ★git commit★ →  git Hub Repository 
+작업 디렉토리 (working directory) <br>
+↓
+★git add★ <br>
+↓
+스테이징 영역 (Staging Area)  <br>
+↓
+★git commit★ <br>
+↓
+git Hub Repository <br>
