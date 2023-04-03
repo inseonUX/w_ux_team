@@ -18,4 +18,4 @@ ux 협업 연습을 위한 공간
 ↓ ★git add★ ↓ <br>
 스테이징 영역 (Staging Area)  <br>
 ↓ ★git commit★ ↓  <br>
-git Hub Repository <br>
+원격 저장소(GitHub Repository)<br>
