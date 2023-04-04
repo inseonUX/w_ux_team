@@ -3,6 +3,9 @@
 
 > #### UX 협업 연습을 위한 공간
 
+<br>
+
+![이미지](https://raw.githubusercontent.com/inseonUX/w_ux_team/bd2f541a2338be07f4edd7adf3e2cbcc9c30d366/cute_ux.jpg)
 
 
 <br>
@@ -40,4 +43,3 @@
 <br>
 
 
-![이미지](https://raw.githubusercontent.com/inseonUX/w_ux_team/bd2f541a2338be07f4edd7adf3e2cbcc9c30d366/cute_ux.jpg)
