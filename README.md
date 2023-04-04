@@ -35,6 +35,8 @@
 
 **↓ ★git commit★ ↓**
 
+**↓ ★git push★ ↓**
+
 
 
 **3. 원격 저장소** (GitHub Repository)
