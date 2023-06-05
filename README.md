@@ -21,26 +21,10 @@
 
 <br>
 
-#### [Git 3단계 파일 상태] 
+#### 
 
-**1. 작업 디렉토리** (working directory)
-
-
-**↓ ★git add★ ↓**
-
-
-
-**2. 스테이징 영역** (Staging Area)
-
-
-**↓ ★git commit★ ↓**
-
-**↓ ★git push★ ↓**
-
-
-
-**3. 원격 저장소** (GitHub Repository)
-
+branch란 개발 저장소를 어지럽히지 않고 병렬적으로 개발을 수행할 수 있도록 도와주는 작업공간이다. 
+branch는 Git의 가장 기본적인 작업공간 단위이다. 
 
 <br>
 
